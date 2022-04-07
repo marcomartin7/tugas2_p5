@@ -189,17 +189,17 @@ class _MyAppState extends State<MyApp> {
                   ),
                   SizedBox(height: 15,),
                   Text(
-                    'M Ikbal Maulana',
+                    'Marco Martin Da Silva',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.w500
                     ),
                   ),
                   Text(
-                    'ikbal.065119170@unpak.ac.id',
+                    'marco.065119100@unpak.ac.id',
                   ),
                   Text(
-                    '081211550750',
+                    '087788452608',
                   )
                 ],
               ),
