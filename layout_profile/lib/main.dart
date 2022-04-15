@@ -4,6 +4,7 @@ import 'package:layout_profile/color.dart';
 
 void main() => runApp(MyApp());
 
+
 class MyApp extends StatefulWidget {
 
 
@@ -44,7 +45,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 SizedBox(width: 195,),
                 Text(
-                  '065119170',
+                  '065119100',
                   style: dua
                 ),
                 SizedBox(width: 8,),
@@ -183,7 +184,7 @@ class _MyAppState extends State<MyApp> {
               Column(
                 children: [
                   Image.asset(
-                    'assets/mas.png',
+                    'assets/marco.jpeg',
                     width: 135,
                     height: 135,
                   ),
@@ -208,7 +209,7 @@ class _MyAppState extends State<MyApp> {
               SizedBox(height: 20,),
               Column(
                 children: [
-                  teks('Nama Lengkap','M Ikbal Maulana'),
+                  teks('Nama Lengkap','Marco Martin Da Silva'),
                   SizedBox(height: 2,),
                   Divider(
                     height: 10,
@@ -218,7 +219,7 @@ class _MyAppState extends State<MyApp> {
                     color: Colors.black,
                   ),
                   SizedBox(height: 5,),
-                  teks('Panggilan', 'Maszeh'),
+                  teks('Panggilan', 'Marco'),
                   SizedBox(height: 2,),
                   Divider(
                     height: 10,
@@ -239,7 +240,7 @@ class _MyAppState extends State<MyApp> {
                         ),
                         SizedBox(height: 8,),
                         Text(
-                          'ds. Karang Asem Timur, RT 04,\nkec. Citeurep, kab. Bogor, Jawa Barat',
+                          'perumahan tatya asri block jc 15 rt 01 /rw 12 , kab. Bogor, Jawa Barat',
                           style: empat,
                         ),
                       ],
